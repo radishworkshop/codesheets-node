@@ -1,0 +1,14 @@
+{
+  "name": "codesheets",
+  "version": "0.0.2",
+  "description": "The Codesheets Node library provides convenient access to the Codesheets API from applications written in server-side JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "codesheets"
+  ],
+  "author": "Radish Workshop",
+  "license": "MIT"
+}
