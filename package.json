@@ -1,14 +1,22 @@
 {
   "name": "codesheets",
-  "version": "0.0.2",
+  "version": "0.2.0",
   "description": "The Codesheets Node library provides convenient access to the Codesheets API from applications written in server-side JavaScript.",
-  "main": "index.js",
+  "homepage": "https://www.codesheets.com",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "scripts": {
+    "build": "tsup",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "codesheets"
+    "spreadsheet", "db", "database",
+    "ai", "assistant", "api",
+    "backend", "front-end", "framework"
   ],
-  "author": "Radish Workshop",
-  "license": "MIT"
+  "author": "Zack Reneau-Wedeen",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.1"
+  }
 }

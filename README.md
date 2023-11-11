@@ -3,7 +3,7 @@
 A Node.JS SDK for developing with Codesheets, written in TypeScript.
 
 <p>
-  <a aria-label="Radish Workshop" href="https://yuzujs.com">
+  <a aria-label="Radish Workshop" href="https://codesheets.com">
     <img src="https://img.shields.io/badge/Radish_Workshop-000000?style=for-the-badge">
   </a>
   <a aria-label="NPM version" href="https://www.npmjs.com/package/codesheets">
